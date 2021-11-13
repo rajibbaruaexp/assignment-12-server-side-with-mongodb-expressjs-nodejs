@@ -4,7 +4,7 @@ GoPro, Inc. is an American technology company founded in 2002 by Nick Woodman. I
 
 ## Demo
 
-Link: https://digital-diagnostic-cente-4e974.web.app/
+Link: https://landing-page-4d297.web.app/
 
 ## Acknowledgements
 
